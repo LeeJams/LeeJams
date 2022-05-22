@@ -11,9 +11,9 @@
 
 <p>
   <a href="https://fluorescent-guitar-0b6.notion.site/0aa3ebb6be57431b98d6800af422476f" target="_blank"><img src="https://img.shields.io/badge/IntroducePage-071D49?style=for-the-badge&logo=aboutdotme&logoColor=white"/></a>
-  <a href="mailto:woals214@gmail.com" target="_blank"><img src="https://img.shields.io/badge/woals214@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://fluorescent-guitar-0b6.notion.site/0aa3ebb6be57431b98d6800af422476f" target="_blank"><img src="https://img.shields.io/badge/CodingTestBlog-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://fluorescent-guitar-0b6.notion.site/0aa3ebb6be57431b98d6800af422476f" target="_blank"><img src="https://img.shields.io/badge/DailyBlog-181717?style=for-the-badge&logo=storyblok&logoColor=white"/></a>
+  <a href="mailto:woals214@gmail.com" target="_blank"><img src="https://img.shields.io/badge/woals214@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   
 </p>
 
