@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:2f43a8,100:c21e3f&height=170&section=header&text=Hello%20LeeJam's%20World&fontSize=30&&animation=twinkling&fontAlignY=30&fontColor=ffffffba)
 
+<p>
+  <a href="[http://blog.cowkite.com/](https://fluorescent-guitar-0b6.notion.site/0aa3ebb6be57431b98d6800af422476f)" target="_blank"><img src="https://img.shields.io/badge/Introduce-00A98F?style=flat-square&logo=aboutdotme&logoColor=white"/></a>
+  <a href="mailto:woals214@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeJams%2Fhit-counter&count_bg=%23828282&title_bg=%232D2D2D&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
+</p>
+
 ## Tech Stacks💻
 
 **Langages**
