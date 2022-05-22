@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:2f43a8,100:c21e3f&height=170&section=header&text=Hello%20LeeJam's%20World&fontSize=30&&animation=twinkling&fontAlignY=30&fontColor=ffffffba)
 
-###Tech Stack💻
+## Tech Stack💻
 
 **Langages**
 
@@ -20,7 +20,6 @@
 
 **Frameworks / Library**
 
-<hr>
 <div>
   <img src="https://img.shields.io/badge/Node.js-131418?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
   <img src="https://img.shields.io/badge/Vue.js-131418?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
@@ -30,7 +29,6 @@
 
 **Others**
 
-<hr>
 <div>
   <img src="https://img.shields.io/badge/Git-131418?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/Amazon_AWS-131418?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
