@@ -2,10 +2,15 @@
 
 ## ☀️ About Me
 
+<p>안녕하세요, 2년 차 프론트앤드 개발자 이재민입니다.</p>
+<p>즐겁게 사람들과 협업하며 프로젝트를 하는 것을 좋아하고
+사람들이 필요로 하는 것이 무엇인지 고민하는 자세로 끊임 없이 배우고 있습니다.</p>
+감사합니다!
+
 <p>
   <a href="https://fluorescent-guitar-0b6.notion.site/0aa3ebb6be57431b98d6800af422476f" target="_blank"><img src="https://img.shields.io/badge/IntroducePage-071D49?style=for-the-badge&logo=aboutdotme&logoColor=white"/></a>
   <a href="mailto:woals214@gmail.com" target="_blank"><img src="https://img.shields.io/badge/woals214@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeJams%2Fhit-counter&count_bg=%23828282&title_bg=%230F0F0F&icon=&icon_color=%23E7E7E7&title=Hits++&edge_flat=true"/>
+  
 </p>
 
 ## 💻 Tech Stacks
@@ -42,3 +47,5 @@
   <img src="https://img.shields.io/badge/Sass-131418?style=for-the-badge&logo=sass&logoColor=CC6699" />
   <img src="https://img.shields.io/badge/Markdown-131418?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeJams%2Fhit-counter&count_bg=%23828282&title_bg=%230F0F0F&icon=&icon_color=%23E7E7E7&title=Hits++&edge_flat=true"/>
