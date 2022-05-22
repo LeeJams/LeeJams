@@ -3,7 +3,7 @@
 ## ☀️ About Me
 
 <p>
-  <a href="https://fluorescent-guitar-0b6.notion.site/0aa3ebb6be57431b98d6800af422476f" target="_blank"><img src="https://img.shields.io/badge/IntroducePage-#071D49?style=for-the-badge&logo=aboutdotme&logoColor=white"/></a>
+  <a href="https://fluorescent-guitar-0b6.notion.site/0aa3ebb6be57431b98d6800af422476f" target="_blank"><img src="https://img.shields.io/badge/IntroducePage-071D49?style=for-the-badge&logo=aboutdotme&logoColor=white"/></a>
   <a href="mailto:woals214@gmail.com" target="_blank"><img src="https://img.shields.io/badge/woals214@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeJams%2Fhit-counter&count_bg=%23828282&title_bg=%230F0F0F&icon=&icon_color=%23E7E7E7&title=Hits++&edge_flat=true"/>
 </p>
