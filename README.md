@@ -47,6 +47,5 @@
   <img src="https://img.shields.io/badge/Docker-131418?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Ubuntu-131418?style=for-the-badge&logo=ubuntu&logoColor=E95420" />
   <img src="https://img.shields.io/badge/Sass-131418?style=for-the-badge&logo=sass&logoColor=CC6699" />
-  <img src="https://img.shields.io/badge/Markdown-131418?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
 
