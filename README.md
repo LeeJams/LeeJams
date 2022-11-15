@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:2f43a8,100:c21e3f&height=170&section=header&text=Hello%20LeeJam's%20World&fontSize=30&&animation=twinkling&fontAlignY=30&fontColor=ffffffba)
 ## ☀️ About Me
 
-<p>안녕하세요, 2년 차 프론트앤드 개발자 이재민입니다.</p>
+<p>안녕하세요, 3년 차 프론트앤드 개발자 이재민입니다.</p>
 <p>즐겁게 사람들과 협업하며 프로젝트를 하는 것을 좋아하고</p>
 <p>누구나 쉽게 알아볼 수 있는 코드를 작성하기 위해 노력하고있습니다.</p>
 <br />
