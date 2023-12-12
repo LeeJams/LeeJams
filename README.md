@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:2f43a8,100:c21e3f&height=170&section=header&text=Hello%20LeeJam's%20World&fontSize=30&&animation=twinkling&fontAlignY=30&fontColor=ffffffba)
 ## ☀️ About Me
 
 <p>안녕하세요, 4년 차 개발자 이재민입니다.</p>
