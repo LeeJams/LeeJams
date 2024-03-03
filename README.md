@@ -13,7 +13,7 @@
 
 ## 💻 Tech Stacks
 
-**Langages**
+**Languages**
 <div>
   <img src="https://img.shields.io/badge/JavaScript-131418?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
   <img src="https://img.shields.io/badge/TypeScript-131418?style=for-the-badge&logo=typescript&logoColor=007ACC" />
