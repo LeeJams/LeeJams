@@ -4,13 +4,6 @@
 <p>같이 고민하고 시도해보면서 즐겁게 사람들과 협업하며 프로젝트 하는 것을 좋아하고</p>
 <p>간결하고 쉽게 알아볼 수 있는 코드를 작성하기 위해 노력하고있습니다.</p>
 
-<p>
-  <a href="https://fluorescent-guitar-0b6.notion.site/0aa3ebb6be57431b98d6800af422476f" target="_blank"><img src="https://img.shields.io/badge/Introduce_Page-071D49?style=for-the-badge&logo=aboutdotme&logoColor=white"/></a>
-  <a href="https://leejams.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:woals214@gmail.com" target="_blank"><img src="https://img.shields.io/badge/woals214@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  
-</p>
-
 ## 💻 Tech Stacks
 
 **Languages**
