@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeeJams/LeeJams/main/assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeeJams/LeeJams/main/assets/header-light.svg">
-  <img src="https://raw.githubusercontent.com/LeeJams/LeeJams/main/assets/header-light.svg" alt="LeeJam. — Software Developer · Web systems & thoughtful engineering" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeeJams/LeeJams/main/assets/header-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeeJams/LeeJams/main/assets/header-light.svg?v=2">
+  <img src="https://raw.githubusercontent.com/LeeJams/LeeJams/main/assets/header-light.svg?v=2" alt="LeeJam. — Software Developer · Web systems & thoughtful engineering" width="100%">
 </picture>
 
 ### Hi, I'm Jaemin Lee 👋
