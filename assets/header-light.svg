@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">LeeJam. — Software Developer</title>
+  <desc id="desc">Web systems and everyday apps. A blue path connects an idea to a completed product.</desc>
+  <rect width="1200" height="300" rx="16" fill="#f3f6fb"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="56" y="55" fill="#55657b" font-size="16" font-weight="600" letter-spacing="3">SOFTWARE DEVELOPER</text>
+    <text x="50" y="178" fill="#17263c" font-size="110" font-weight="750" letter-spacing="-6">LeeJam<tspan fill="#346cf1">.</tspan></text>
+    <path d="M56 211H620" stroke="#d6deeb"/>
+    <text x="56" y="253" fill="#55657b" font-size="19" letter-spacing="1">WEB SYSTEMS / EVERYDAY APPS</text>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M835 80H948Q975 80 975 107V193Q975 220 1002 220H1090" stroke="#d6deeb" stroke-width="2"/>
+    <path d="M810 220H882Q909 220 909 193V149Q909 122 936 122H1076" stroke="#346cf1" stroke-width="4"/>
+    <path d="M1062 108L1076 122L1062 136" stroke="#346cf1" stroke-width="4"/>
+    <rect x="775" y="185" width="70" height="70" rx="20" fill="#f3f6fb" stroke="#346cf1" stroke-width="3"/>
+    <path d="M798 210L788 220L798 230M822 210L832 220L822 230M814 207L806 233" stroke="#346cf1" stroke-width="3"/>
+    <circle cx="1090" cy="220" r="20" fill="#346cf1" stroke="#346cf1" stroke-width="2"/>
+    <path d="M1081 220L1087 226L1099 214" stroke="#ffffff" stroke-width="3"/>
+    <circle cx="835" cy="80" r="5" fill="#d6deeb"/>
+  </g>
+</svg>
