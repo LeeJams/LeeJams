@@ -29,27 +29,27 @@
 
 <table>
   <tr>
-    <td width="48" align="center"><a href="https://haesseo.inonoi.com/"><img src="assets/haesseo.svg" width="48" height="48" alt="했어 앱 아이콘"></a></td>
+    <td width="76" align="center"><a href="https://haesseo.inonoi.com/"><img src="assets/haesseo.svg" width="48" height="48" alt="했어 앱 아이콘"></a></td>
     <td>
       <a href="https://haesseo.inonoi.com/"><strong>했어</strong></a> &nbsp; <sub>가족과 나누는 완료 소식</sub><br>
       복약과 생활 루틴을 마치면, 선택한 사람에게 소식을 전하는 앱입니다.<br>
-      <sub><a href="https://haesseo.inonoi.com/">서비스 소개 ↗</a> &nbsp;·&nbsp; <a href="https://apps.apple.com/kr/app/id6812309606">App&nbsp;Store</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=io.leejam.haesseo">Google&nbsp;Play</a></sub>
+      <sub><a href="https://haesseo.inonoi.com/">자세히 ↗</a> &nbsp;·&nbsp; <a href="https://apps.apple.com/kr/app/id6812309606">App&nbsp;Store</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=io.leejam.haesseo">Google&nbsp;Play</a></sub>
     </td>
   </tr>
   <tr>
-    <td width="48" align="center"><a href="https://leejams.github.io/about/projects/duty-lounge/"><img src="assets/duty-lounge.jpg" width="48" height="48" alt="듀티라운지 앱 아이콘"></a></td>
+    <td width="76" align="center"><a href="https://leejams.github.io/about/projects/duty-lounge/"><img src="assets/duty-lounge.jpg" width="48" height="48" alt="듀티라운지 앱 아이콘"></a></td>
     <td>
       <a href="https://leejams.github.io/about/projects/duty-lounge/"><strong>듀티라운지</strong></a> &nbsp; <sub>교대 근무자를 위한 일정 관리</sub><br>
       나와 동료들의 근무·휴가 일정을 한곳에서 확인하고 공유하는 앱입니다.<br>
-      <sub><a href="https://leejams.github.io/about/projects/duty-lounge/">개발 이야기 ↗</a> &nbsp;·&nbsp; <a href="https://apps.apple.com/kr/app/id6742709529">App&nbsp;Store</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.leejam.dutylounge">Google&nbsp;Play</a></sub>
+      <sub><a href="https://leejams.github.io/about/projects/duty-lounge/">자세히 ↗</a> &nbsp;·&nbsp; <a href="https://apps.apple.com/kr/app/id6742709529">App&nbsp;Store</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.leejam.dutylounge">Google&nbsp;Play</a></sub>
     </td>
   </tr>
   <tr>
-    <td width="48" align="center"><a href="https://leejams.github.io/about/projects/fluxile/"><img src="assets/fluxile.jpg" width="48" height="48" alt="Fluxile 앱 아이콘"></a></td>
+    <td width="76" align="center"><a href="https://leejams.github.io/about/projects/fluxile/"><img src="assets/fluxile.jpg" width="48" height="48" alt="Fluxile 앱 아이콘"></a></td>
     <td>
       <a href="https://leejams.github.io/about/projects/fluxile/"><strong>Fluxile</strong></a> &nbsp; <sub>iOS · Android 네이티브 퍼즐</sub><br>
       SwiftUI·SpriteKit과 Kotlin·Compose로 각각 구현한 헥사 블록 퍼즐입니다.<br>
-      <sub><a href="https://leejams.github.io/about/projects/fluxile/">개발 이야기 ↗</a> &nbsp;·&nbsp; <a href="https://apps.apple.com/kr/app/id6790445512">App&nbsp;Store</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=io.leejam.Fluxile">Google&nbsp;Play</a></sub>
+      <sub><a href="https://leejams.github.io/about/projects/fluxile/">자세히 ↗</a> &nbsp;·&nbsp; <a href="https://apps.apple.com/kr/app/id6790445512">App&nbsp;Store</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=io.leejam.Fluxile">Google&nbsp;Play</a></sub>
     </td>
   </tr>
 </table>
