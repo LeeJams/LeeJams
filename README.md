@@ -1,17 +1,17 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeeJams/LeeJams/main/assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeeJams/LeeJams/main/assets/header-light.svg">
-  <img src="https://raw.githubusercontent.com/LeeJams/LeeJams/main/assets/header-light.svg" alt="LeeJam. — Software Developer · Web systems & everyday apps" width="100%">
+  <img src="https://raw.githubusercontent.com/LeeJams/LeeJams/main/assets/header-light.svg" alt="LeeJam. — Software Developer · Web systems & thoughtful engineering" width="100%">
 </picture>
 
-### 안녕하세요, 이재민입니다.
+### Hi, I'm Jaemin Lee 👋
 
-**웹 서비스의 복잡한 흐름을 풀고, 일상의 작은 불편을 앱으로 만듭니다.**
+**I build dependable web services and improve the workflows around them.**
 
 <p>
-커머스·직원 관리·인증 업무를 지원하는 웹 서비스를 개발해 왔습니다.<br>
-지금은 <strong>헥토데이터</strong>에서 주문 관리 서비스의 백엔드를 개발·운영하고,<br>
-개인으로는 가까운 사람들에게 필요한 앱을 기획부터 출시까지 만들고 있습니다.
+Software developer at <strong>HectoData</strong>, working on commerce platforms and order management systems.<br>
+I work across backend and frontend, with a focus on data consistency, performance, and maintainable code.<br>
+I use AI throughout development and verify the assumptions, evidence, and behavior behind its output.
 </p>
 
 <p>
@@ -23,66 +23,79 @@
 
 <br>
 
-## 직접 만들고 운영하는 앱
+## Tech Stack
 
-기획·디자인·개발·출시·운영까지 직접 맡은 개인 프로젝트입니다.
-
-<table>
-  <tr>
-    <td width="76" align="center"><a href="https://haesseo.inonoi.com/"><img src="assets/haesseo.svg" width="48" height="48" alt="했어 앱 아이콘"></a></td>
-    <td>
-      <a href="https://haesseo.inonoi.com/"><strong>했어</strong></a> &nbsp; <sub>가족과 나누는 완료 소식</sub><br>
-      복약과 생활 루틴을 마치면, 선택한 사람에게 소식을 전하는 앱입니다.<br>
-      <sub><a href="https://haesseo.inonoi.com/">자세히 ↗</a> &nbsp;·&nbsp; <a href="https://apps.apple.com/kr/app/id6812309606">App&nbsp;Store</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=io.leejam.haesseo">Google&nbsp;Play</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="76" align="center"><a href="https://leejams.github.io/about/projects/duty-lounge/"><img src="assets/duty-lounge.jpg" width="48" height="48" alt="듀티라운지 앱 아이콘"></a></td>
-    <td>
-      <a href="https://leejams.github.io/about/projects/duty-lounge/"><strong>듀티라운지</strong></a> &nbsp; <sub>교대 근무자를 위한 일정 관리</sub><br>
-      나와 동료들의 근무·휴가 일정을 한곳에서 확인하고 공유하는 앱입니다.<br>
-      <sub><a href="https://leejams.github.io/about/projects/duty-lounge/">자세히 ↗</a> &nbsp;·&nbsp; <a href="https://apps.apple.com/kr/app/id6742709529">App&nbsp;Store</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.leejam.dutylounge">Google&nbsp;Play</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="76" align="center"><a href="https://leejams.github.io/about/projects/fluxile/"><img src="assets/fluxile.jpg" width="48" height="48" alt="Fluxile 앱 아이콘"></a></td>
-    <td>
-      <a href="https://leejams.github.io/about/projects/fluxile/"><strong>Fluxile</strong></a> &nbsp; <sub>iOS · Android 네이티브 퍼즐</sub><br>
-      SwiftUI·SpriteKit과 Kotlin·Compose로 각각 구현한 헥사 블록 퍼즐입니다.<br>
-      <sub><a href="https://leejams.github.io/about/projects/fluxile/">자세히 ↗</a> &nbsp;·&nbsp; <a href="https://apps.apple.com/kr/app/id6790445512">App&nbsp;Store</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=io.leejam.Fluxile">Google&nbsp;Play</a></sub>
-    </td>
-  </tr>
-</table>
-
-### 오픈소스
+**Backend & Data**
 
 <p>
-<a href="https://github.com/LeeJams/Organization-Chart-Vue3"><strong>organization-chart-vue3</strong></a><br>
-서비스에 맞게 확장할 수 있는 Vue 3 조직도 컴포넌트입니다.<br>
-TypeScript 타입, 커스텀 슬롯, 선택 이벤트를 제공하며 npm 패키지로 배포합니다.<br>
-<a href="https://www.npmjs.com/package/organization-chart-vue3">npm</a> &nbsp;·&nbsp; <a href="https://leejams.github.io/Organization-Chart-Vue3/">Live demo ↗</a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+</p>
+
+**Mobile**
+
+<p>
+  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
 </p>
 
 <br>
 
-## 주로 사용하는 기술
+## GitHub Activity
 
-| 분야 | 기술 |
-| :--- | :--- |
-| **Frontend** | TypeScript · React · Next.js · Vue 3 |
-| **Backend** | Java · Spring Boot · Node.js · PostgreSQL · Redis |
-| **Mobile** | SwiftUI · Kotlin · Jetpack Compose · React Native · Expo |
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LeeJams&custom_title=GitHub%20Stats&show_icons=true&rank_icon=github&card_width=495&disable_animations=true&hide_border=true&border_radius=12&title_color=7ba4ff&icon_color=7ba4ff&text_color=a0aec2&bg_color=151e2d">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=LeeJams&custom_title=GitHub%20Stats&show_icons=true&rank_icon=github&card_width=495&disable_animations=true&hide_border=true&border_radius=12&title_color=346cf1&icon_color=346cf1&text_color=55657b&bg_color=f3f6fb">
+    <img src="https://github-readme-stats.vercel.app/api?username=LeeJams&custom_title=GitHub%20Stats&show_icons=true&rank_icon=github&card_width=495&disable_animations=true&hide_border=true&border_radius=12&title_color=346cf1&icon_color=346cf1&text_color=55657b&bg_color=f3f6fb" alt="GitHub stats: public stars, commits, pull requests, issues, and contributions" width="400">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=LeeJams&hide_border=true&border_radius=12&background=151E2D&ring=7BA4FF&fire=7BA4FF&currStreakLabel=7BA4FF&currStreakNum=EEF3FC&sideNums=EEF3FC&sideLabels=A0AEC2&dates=A0AEC2&stroke=344157&disable_animations=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=LeeJams&hide_border=true&border_radius=12&background=F3F6FB&ring=346CF1&fire=346CF1&currStreakLabel=346CF1&currStreakNum=17263C&sideNums=17263C&sideLabels=55657B&dates=55657B&stroke=D6DEEB&disable_animations=true">
+    <img src="https://streak-stats.demolab.com?user=LeeJams&hide_border=true&border_radius=12&background=F3F6FB&ring=346CF1&fire=346CF1&currStreakLabel=346CF1&currStreakNum=17263C&sideNums=17263C&sideLabels=55657B&dates=55657B&stroke=D6DEEB&disable_animations=true" alt="GitHub contribution streak: total contributions, current streak, and longest streak" width="400">
+  </picture>
+</p>
+
+<sub>Stats cover public repositories. Streaks reflect the contribution activity visible on GitHub.</sub>
+
+<br>
+<br>
+
+## Open Source
+
+**[organization-chart-vue3](https://github.com/LeeJams/Organization-Chart-Vue3)**
+
+An interactive Vue 3 organization chart with TypeScript types, custom slots, and typed selection events.
+
+[![npm version](https://img.shields.io/npm/v/organization-chart-vue3?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/organization-chart-vue3)
+&nbsp; [Documentation](https://github.com/LeeJams/Organization-Chart-Vue3#readme) &nbsp;·&nbsp; [Live demo ↗](https://leejams.github.io/Organization-Chart-Vue3/)
 
 <br>
 
-## 개발하며 남긴 기록
+## Writing
 
-문제의 배경과 선택의 이유를 기록합니다. AI를 적극 활용하되, 결과의 근거와 실제 동작을 직접 확인합니다.
+Notes on performance, AI-assisted development, and product decisions. Posts are written in Korean.
 
-- [AI 활용, 속도와 병목 사이 — 사내 발표 후기](https://leejams.github.io/ai-development-speed-and-bottlenecks/)
-- [OMS 주문 조회 성능 개선 — PostgreSQL OFFSET 페이징 최적화](https://leejams.github.io/postgresql-order-list-query-optimization/)
-- [사용자 입장에서 생각하세요 — 내가 만든 화면은 왜 나에게만 쉬웠을까](https://leejams.github.io/think-like-a-user/)
+- [AI in Development: Speed, Bottlenecks, and Engineering Judgment](https://leejams.github.io/ai-development-speed-and-bottlenecks/)
+- [Optimizing PostgreSQL Pagination for an Order Management System](https://leejams.github.io/postgresql-order-list-query-optimization/)
+- [Thinking Like a User: Why My UI Was Only Easy for Me](https://leejams.github.io/think-like-a-user/)
 
 <br>
 
-<sub>더 많은 프로젝트와 경력은 <a href="https://leejams.github.io/about/">포트폴리오</a>에, 시행착오와 배운 점은 <a href="https://leejams.github.io/archive/">블로그</a>에 정리하고 있습니다.</sub>
+<sub>Explore my experience on the <a href="https://leejams.github.io/about/">portfolio</a>, or find more development notes on the <a href="https://leejams.github.io/archive/">blog</a>.</sub>
